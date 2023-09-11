@@ -3,4 +3,4 @@ This app features a Pomodoro Timer for focused work sessions, customizable setti
 
 
 
-Download the app(WIN): https://drive.google.com/drive/folders/1BBzVV3Og1TzGXudPQSBmoV83Ef65Zq54?usp=sharing
+Download the app (WIN): https://drive.google.com/drive/folders/1BBzVV3Og1TzGXudPQSBmoV83Ef65Zq54?usp=sharing
