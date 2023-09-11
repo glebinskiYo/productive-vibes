@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Pomodoro:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="Pomodoro.jar">
+      <element id="module-output" name="saved" />
+      <element id="module-output" name="Pomodoro" />
+      <element id="library" level="project" name="java" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/junique-1.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/LGoodDatePicker-11.2.1-executable-demo (1).jar" path-in-jar="/" />
+      <element id="library" level="project" name="api" />
+    </root>
+  </artifact>
+</component>

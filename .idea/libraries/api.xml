@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="api">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/junique-1.0.4.zip!/junique-1.0.4/doc/api" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/junique-1.0.4.zip!/junique-1.0.4/examples/1/src" />
+      <root url="jar://$USER_HOME$/Downloads/junique-1.0.4.zip!/junique-1.0.4/examples/2/src" />
+      <root url="jar://$USER_HOME$/Downloads/junique-1.0.4.zip!/junique-1.0.4/src" />
+    </SOURCES>
+  </library>
+</component>
